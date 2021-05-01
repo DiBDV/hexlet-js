@@ -1,2 +1,2 @@
 # hexlet-js
-main repository for Hexlet projects
+My 1st project on Hexlet
