@@ -2,7 +2,7 @@
   "name": "js_project",
   "version": "1.0.0",
   "description": "npm prep for project work at Hexlet school",
-  "homepage": "https://github.com/DiBDV/hexlet-js/tree/main/JavaScript"
+  "homepage": "https://github.com/DiBDV/hexlet-js/tree/main/JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,13 @@
   "author": {
     "name": "Dmitrii Bedov",
     "email": "bdv.dmitry@gmail.com"
-  }
+  },
   "bugs": {
-  "url": "https://github.com/DiBDV/hexlet-js/tree/main/JavaScript"
-  }
-  "license": "ISC"
+    "url": "https://github.com/DiBDV/hexlet-js/tree/main/JavaScript"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "type": "module"
 }
