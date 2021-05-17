@@ -1,5 +1,5 @@
 // По общепринятому соглашению, lodash импортируется под именем _
-import _ from "./node_modules/lodash/lodash.js";
+import _ from "lodash";
 
 console.log("Hello, Hexlet!");
 
